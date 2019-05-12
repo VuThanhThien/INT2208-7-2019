@@ -33,11 +33,11 @@
 		* CƠ SỞ LÝ THUYẾT
 			- [Xây dựng code dễ đọc](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.zihsvljsrx0x)
 			- [Tránh mã xấu](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.x5jzfha6cshw)
-			- [Tái cấu trúc liêm tục](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.bxti8dsihgwm)
+			- [Tái cấu trúc liên tục](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.bxti8dsihgwm)
 	* [Kiểm thử](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.rxddpdxv9qym)
 		* Xây dựng các ca kiểm thử đơn vị: đưa ra các trường hợp xem ứng dụng có xử lý đúng như mong muốn không.
 			- Thêm vào giỏ hàng:
-				+ Khi chưa đăng nhạp có thêm được mặt hàng vào giỏ hàng không?
+				+ Khi chưa đăng nhập có thêm được mặt hàng vào giỏ hàng không?
 				+ Có thêm được sản phẩm vào giỏ hàng không?
 				+ Thêm sản phẩm vào giỏ hàng có lỗi không? Có thêm được nhiều mặt hàng cùng loại không?
 				+ Có bắt được các sự kiện cho các nút không?
